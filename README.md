@@ -1,5 +1,21 @@
 # 💫 About Me:
-🚀 Hi there! I'm Jenish Shekhada<br>🎓 3rd-year student at LJ Engineering and Technology<br>💻 Passionate about Python Backend Development & building scalable web applications<br>🛠️ Currently working on Yourflix – a movie/show booking system<br><br>🏗️ Tech Stack<br>🔹 Backend: Django, Flask, FastAPI<br>🔹 Frontend: HTML, CSS (Bootstrap), JavaScript<br>🔹 Databases: PostgreSQL, MySQL<br>🔹 Other: REST APIs, Git/GitHub, Docker<br><br>🌱 Learning & Interests<br>Advanced backend architecture<br>MERN stack for full-stack development<br>Exploring AI & ML with TensorFlow and NLP
+🚀 Hi there! I'm Jenish Shekhada<br>
+🎓 3rd-year student at LJ Engineering and Technology<br>
+💻 Passionate about Python Backend Development & building scalable web applications<br>
+🛠️ Currently working on Yourflix – a movie/show booking system<br><br>
+
+🏗️ **Tech Stack**<br>
+🔹 Backend: Django, Flask, FastAPI<br>
+🔹 Frontend: HTML, CSS (Bootstrap), JavaScript<br>
+🔹 Databases: PostgreSQL, MySQL<br>
+🔹 Other: REST APIs, Git/GitHub, Docker, Message Brokers (Kafka)<br><br>
+
+🌱 **Learning & Interests**<br>
+🔹 Advanced backend architecture and system design<br>
+🔹 Exploring Kafka and other message brokers for real-time data streaming and event-driven systems<br>
+🔹 Learning and experimenting with AI/ML, particularly Large Language Models (LLMs) and Convolutional Neural Networks (CNNs)<br>
+🔹 Working with TensorFlow for building machine learning models and exploring deep learning techniques<br>
+
 
 
 ## 🌐 Socials:
