@@ -1,20 +1,20 @@
-#💫 About Me
+💫 About Me
 🚀 Hey there! I'm Jenish Shekhada
 🎓 Final-year Computer Engineering student at LJ Institute of Engineering & Technology
 💻 Passionate about AI Engineering and building scalable, production-ready web applications
 🛠️ Currently working on Yourflix – a full-stack movie/show booking system
 
-##🧠 Career Focus
+🧠 Career Focus
 I'm pursuing a career as an AI Engineer, blending deep learning, backend systems, and modern MLOps practices to build intelligent and efficient applications. My interest lies at the intersection of LLMs, NLP, and backend architecture.
 
-##🏗️ Tech Stack
+🏗️ Tech Stack
 🔹 Backend: Django • Flask • FastAPI
 🔹 Frontend: HTML • CSS (Bootstrap) • JavaScript
 🔹 Databases: PostgreSQL • MySQL
 🔹 AI/ML: Transformers • Hugging Face • LangChain • Pytorch • Scikit-learn • Pandas
 🔹 DevOps & Tools: Git & GitHub • Docker • REST APIs • Kafka • ChromaDB • PyCharm
 
-##🌱 Learning & Interests
+🌱 Learning & Interests
 🧱 Designing robust backend systems and APIs using FastAPI & Django
 
 🧠 Exploring LLMs, LangChain, and Hugging Face Transformers for building smart apps
