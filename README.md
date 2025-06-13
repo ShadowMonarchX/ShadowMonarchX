@@ -59,9 +59,12 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=JRshekhada7&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=JRshekhada7&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JRshekhada7&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ShadowMonarchX&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarchX&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarchX&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
