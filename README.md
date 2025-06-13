@@ -1,28 +1,33 @@
-# 💫 About Me
+#💫 About Me
+🚀 Hey there! I'm Jenish Shekhada
+🎓 Final-year Computer Engineering student at LJ Institute of Engineering & Technology
+💻 Passionate about AI Engineering and building scalable, production-ready web applications
+🛠️ Currently working on Yourflix – a full-stack movie/show booking system
 
-🚀 Hey there! I'm **Jenish Shekhada**  
-🎓 Final-year Computer Engineering student at LJ Institute of Engineering & Technology  
-💻 Passionate about **Python backend development** and building **scalable, production-ready web applications**  
-🛠️ Currently working on **Yourflix** – a full-stack movie/show booking system  
+##🧠 Career Focus
+I'm pursuing a career as an AI Engineer, blending deep learning, backend systems, and modern MLOps practices to build intelligent and efficient applications. My interest lies at the intersection of LLMs, NLP, and backend architecture.
 
----
+##🏗️ Tech Stack
+🔹 Backend: Django • Flask • FastAPI
+🔹 Frontend: HTML • CSS (Bootstrap) • JavaScript
+🔹 Databases: PostgreSQL • MySQL
+🔹 AI/ML: Transformers • Hugging Face • LangChain • Pytorch • Scikit-learn • Pandas
+🔹 DevOps & Tools: Git & GitHub • Docker • REST APIs • Kafka • ChromaDB • PyCharm
 
-## 🏗️ Tech Stack
+##🌱 Learning & Interests
+🧱 Designing robust backend systems and APIs using FastAPI & Django
 
-**🔹 Backend:** Django • Flask • FastAPI  
-**🔹 Frontend:** HTML • CSS (Bootstrap) • JavaScript  
-**🔹 Databases:** PostgreSQL • MySQL  
-**🔹 DevOps & Tools:** Git & GitHub • Docker • REST APIs • Kafka (Message Broker)  
+🧠 Exploring LLMs, LangChain, and Hugging Face Transformers for building smart apps
 
----
+🧪 Hands-on with NLP pipelines, Retrieval-Augmented Generation (RAG), and vector stores
 
-## 🌱 Learning & Interests
+⚙️ Dockerizing ML/AI projects and deploying them to cloud platforms
 
-- 🧠 Advanced backend architecture & system design principles  
-- ⚡ Real-time data pipelines using Kafka & event-driven systems  
-- 🤖 AI/ML: Working with **LLMs**, **Transformers**, and **CNNs**  
-- 🧪 Exploring **TensorFlow** and deep learning techniques  
-- 🧾 Building AI applications using **LangChain**, **Hugging Face**, and **vector databases**
+☁️ Exploring Kubernetes, MLOps, and cloud-native deployments
+
+🛰️ Working with real-time streaming systems like Kafka for event-driven architectures
+
+
 
 ---
 
