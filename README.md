@@ -3,7 +3,7 @@
 🚀 Hey there! I'm **Jenish Shekhada**  
 🎓 Final-year Computer Engineering student at **LJ Institute of Engineering & Technology**  
 💻 Passionate about **AI Engineering** and building **scalable, production-ready web applications**  
-🛠️ Currently building **Yourflix** – a full-stack movie/show booking system  
+ 
 
 ---
 
