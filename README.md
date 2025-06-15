@@ -94,21 +94,6 @@ I'm aiming for a career as an **AI Engineer**, where I blend **deep learning**, 
 
 ---
 
-### 💡 Highlight Projects
-
-🚧 *Add this section to highlight your best repos. Here’s a template you can fill in:*
-
-```md
-- 🔥 [**Custom AI Chatbot**](https://github.com/ShadowMonarchX/NLP-with-HuggingFace)  
-  Built using Hugging Face Transformers, LangChain, ChromaDB & FastAPI. Fine-tuned a custom Mistral model with LoRA for intelligent FAQ answering. Deployed via Docker on Render.
-
-- 🧠 [**NLP Projects Collection**](https://github.com/ShadowMonarchX/NLP-with-HuggingFace)  
-  Covers text classification, NER, summarization, sentiment analysis, and more with Hugging Face models.
-
-
-
----
-
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
