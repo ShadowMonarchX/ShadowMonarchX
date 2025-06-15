@@ -34,6 +34,30 @@ I'm aiming for a career as an **AI Engineer**, where I blend **deep learning**, 
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShadowMonarchX&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="ShadowMonarchX's GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarchX&theme=radical&hide_border=false" alt="GitHub Streak Stats" height="200"/>
+</p>
+
+---
+
+der](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+
+## 🌐 Profiles
+
+- 🤗 **Hugging Face**: [ShadowMonarch07](https://huggingface.co/ShadowMonarch07)
+- 📊 **Weights & Biases**: [jenexshekhada](https://wandb.ai/jenexshekhada)
+- 💻 **LeetCode**: [jrpate](https://leetcode.com/u/jrpate/)
+- 🧠 **Kaggle**: [jenexshekhada](https://www.kaggle.com/jenexshekhada)
+
+---
+
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -57,35 +81,6 @@ I'm aiming for a career as an **AI Engineer**, where I blend **deep learning**, 
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShadowMonarchX&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="ShadowMonarchX's GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarchX&theme=radical&hide_border=false" alt="GitHub Streak Stats" height="200"/>
-</p>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7289DA?style=for-the-badge&logo=chromadb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
-
----
-## 🌐 Profiles
-
-- 🤗 **Hugging Face**: [ShadowMonarch07](https://huggingface.co/ShadowMonarch07)
-- 📊 **Weights & Biases**: [jenexshekhada](https://wandb.ai/jenexshekhada)
-- 💻 **LeetCode**: [jrpate](https://leetcode.com/u/jrpate/)
-- 🧠 **Kaggle**: [jenexshekhada](https://www.kaggle.com/jenexshekhada)
 
 ---
 
