@@ -66,13 +66,45 @@ I'm aiming for a career as an **AI Engineer**, where I blend **deep learning**, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarchX&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarchX&theme=radical&hide_border=false&layout=compact) 
 
-## 📊 GitHub Stats
+---
+
+## 🚀 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShadowMonarchX&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="ShadowMonarchX's GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarchX&theme=radical&hide_border=false" alt="GitHub Streak Stats" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarchX&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="160"/>
+</p>
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=ShadowMonarchX&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarchX&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarchX&theme=radical&hide_border=false&layout=compact)  
+### 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7289DA?style=for-the-badge&logo=chromadb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+### 💡 Highlight Projects
+
+🚧 *Add this section to highlight your best repos. Here’s a template you can fill in:*
+
+```md
+- 🔥 [**Custom AI Chatbot**](https://github.com/ShadowMonarchX/NLP-with-HuggingFace)  
+  Built using Hugging Face Transformers, LangChain, ChromaDB & FastAPI. Fine-tuned a custom Mistral model with LoRA for intelligent FAQ answering. Deployed via Docker on Render.
+
+- 🧠 [**NLP Projects Collection**](https://github.com/ShadowMonarchX/NLP-with-HuggingFace)  
+  Covers text classification, NER, summarization, sentiment analysis, and more with Hugging Face models.
+
 
 
 ---
