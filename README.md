@@ -43,10 +43,6 @@ I'm aiming for a career as an **AI Engineer**, where I blend **deep learning**, 
 
 ---
 
-der](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
-
----
-
 
 ## 🌐 Profiles
 
