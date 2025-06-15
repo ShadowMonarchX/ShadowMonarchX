@@ -80,6 +80,13 @@ I'm aiming for a career as an **AI Engineer**, where I blend **deep learning**, 
 ![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
 
 ---
+## 🌐 Profiles
 
+- 🤗 **Hugging Face**: [ShadowMonarch07](https://huggingface.co/ShadowMonarch07)
+- 📊 **Weights & Biases**: [jenexshekhada](https://wandb.ai/jenexshekhada)
+- 💻 **LeetCode**: [jrpate](https://leetcode.com/u/jrpate/)
+- 🧠 **Kaggle**: [jenexshekhada](https://www.kaggle.com/jenexshekhada)
+
+---
 
 <!-- Made with 💻 by Jenish Shekhada | Inspired by GPRM (https://gprm.itsvg.in) -->
