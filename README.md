@@ -81,10 +81,5 @@ I'm aiming for a career as an **AI Engineer**, where I blend **deep learning**, 
 
 ---
 
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
-
----
 
 <!-- Made with 💻 by Jenish Shekhada | Inspired by GPRM (https://gprm.itsvg.in) -->
