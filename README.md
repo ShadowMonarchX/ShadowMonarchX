@@ -59,26 +59,11 @@ I'm aiming for a career as an **AI Engineer**, where I blend **deep learning**, 
 
 ---
 
-## 🚀 GitHub Stats & Activity
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShadowMonarchX&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="ShadowMonarchX's GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarchX&theme=radical&hide_border=false" alt="GitHub Streak Stats" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarchX&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="160"/>
-</p>
-
----
-
-## 🧠 Competitive Programming
-
-I actively solve problems to strengthen my problem-solving and DSA skills. Currently focusing on LeetCode challenges to improve system design thinking and algorithmic depth.
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jrpate?theme=radical&font=Fira+Code&ext=activity)](https://leetcode.com/u/jrpate/)
-
-
+![](https://github-readme-stats.vercel.app/api?username=ShadowMonarchX&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarchX&theme=radical&hide_border=false)  
+ 
 
 ---
 
