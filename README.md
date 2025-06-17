@@ -37,9 +37,11 @@ I'm aiming for a career as an **AI Engineer**, where I blend **deep learning**, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShadowMonarchX&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="ShadowMonarchX's GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarchX&theme=radical&hide_border=false" alt="GitHub Streak Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShadowMonarchX&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarchX&theme=radical&hide_border=false" height="200"/>
 </p>
+
 
 ---
 
