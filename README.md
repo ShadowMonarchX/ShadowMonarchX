@@ -52,6 +52,14 @@ I'm aiming for a career as an **AI Engineer**, where I blend **deep learning**, 
     height="200"
   />
 
+  <br/>
+   <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarchX&layout=compact&theme=radical" 
+    alt="Top Languages" 
+    height="200"
+  />
+
+
 </div>
 
 
