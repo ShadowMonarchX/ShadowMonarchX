@@ -105,5 +105,7 @@ I'm aiming for a career as an **AI Engineer**, where I blend **deep learning**, 
 
 
 ---
+![GitHub followers](https://img.shields.io/github/followers/ShadowMonarchX?label=Follow&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/ShadowMonarchX?style=social)
 
 <!-- Made with 💻 by Jenish Shekhada | Inspired by GPRM (https://gprm.itsvg.in) -->
