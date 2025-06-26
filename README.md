@@ -47,12 +47,13 @@ I'm aiming for a career as an **AI Engineer**, where I blend **deep learning**, 
   <br/>
 
   <!-- GitHub Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarchX&theme=radical" 
-    alt="GitHub Streak" 
-    height="200"
-    onerror="this.onerror=null; this.src='https://img.shields.io/badge/Streak_Stats-Error-red';"
-  />
+<img 
+  src="https://streak-stats.demolab.com/?user=ShadowMonarchX&theme=radical" 
+  alt="GitHub Streak" 
+  height="200"
+  onerror="this.onerror=null; this.src='https://img.shields.io/badge/GitHub_Streak-Error-red';"
+/>
+
 
   <br/>
 
