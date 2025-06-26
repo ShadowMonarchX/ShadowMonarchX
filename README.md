@@ -33,32 +33,37 @@ I'm aiming for a career as an **AI Engineer**, where I blend **deep learning**, 
 - 🛰️ Building real-time systems with **Kafka** and **event-driven architecture**  
 
 ---
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
+  <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ShadowMonarchX&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
     alt="GitHub Stats" 
     height="200"
+    onerror="this.onerror=null; this.src='https://img.shields.io/badge/GitHub_Stats-Error-red';"
   />
 
   <br/>
 
+  <!-- GitHub Streak Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ShadowMonarchX&theme=radical" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarchX&theme=radical" 
     alt="GitHub Streak" 
     height="200"
+    onerror="this.onerror=null; this.src='https://img.shields.io/badge/Streak_Stats-Error-red';"
   />
 
   <br/>
-   <img 
+
+  <!-- Top Languages -->
+  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarchX&layout=compact&theme=radical" 
     alt="Top Languages" 
     height="200"
+    onerror="this.onerror=null; this.src='https://img.shields.io/badge/Top_Langs-Error-red';"
   />
-
 
 </div>
 
