@@ -32,8 +32,7 @@ I'm aiming for a career as an **AI Engineer**, where I blend **deep learning**, 
 - ☁️ Learning **Kubernetes**, **MLOps workflows**, and **cloud-native architecture**  
 - 🛰️ Building real-time systems with **Kafka** and **event-driven architecture**  
 
----
-## 📊 GitHub Statistics
+---## 📊 GitHub Statistics
 
 <div align="center">
 
