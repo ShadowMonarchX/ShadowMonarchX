@@ -46,25 +46,6 @@ I'm aiming for a career as an **AI Engineer**, where I blend **deep learning**, 
 
   <br/>
 
-  <!-- GitHub Streak Stats -->
-<img 
-  src="https://streak-stats.demolab.com/?user=ShadowMonarchX&theme=radical" 
-  alt="GitHub Streak" 
-  height="200"
-  onerror="this.onerror=null; this.src='https://img.shields.io/badge/GitHub_Streak-Error-red';"
-/>
-
-
-  <br/>
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarchX&layout=compact&theme=radical" 
-    alt="Top Languages" 
-    height="200"
-    onerror="this.onerror=null; this.src='https://img.shields.io/badge/Top_Langs-Error-red';"
-  />
-
 </div>
 
 
