@@ -15,23 +15,39 @@ I'm aiming for a career as an **AI Engineer**, where I blend **deep learning**, 
 
 ## 🏗️ Tech Stack
 
-**🔹 Backend:** Django • Flask • FastAPI  
-**🔹 Frontend:** HTML • CSS (Bootstrap) • JavaScript  
-**🔹 Databases:** PostgreSQL • MySQL  
-**🔹 AI/ML:** Transformers • Hugging Face • LangChain • PyTorch • scikit-learn • Pandas  
-**🔹 DevOps & Tools:** Git & GitHub • Docker • REST APIs • Kafka • ChromaDB • PyCharm  
+**🔹 AI & Agents:**  GPT-4 / GPT-5 • LangChain • Vector Stores (ChromaDB, FAISS)
+
+**🔹 Machine Learning & Data:**  Transformers • Hugging Face • PyTorch • scikit-learn • Pandas • NumPy  
+
+**🔹 Backend Engineering:**  Django • Flask • REST APIs • Webhooks
+
+**🔹 Automation & Workflow Engines:**  n8n • Zapier
+
+**🔹 Databases:**  MySQL • ChromaDB
+
+**🔹 DevOps & Tools:**  Docker • Git & GitHub • VS Code • PyCharm
 
 ---
 
-## 🌱 Learning & Interests
+## 🤖 AI Agent Work & Interests
 
-- 🧱 Designing robust backend systems and APIs using **FastAPI** & **Django**  
-- 🤖 Exploring **LLMs**, **LangChain**, and **Hugging Face Transformers** to build AI-driven apps  
-- 🧪 Hands-on with **NLP pipelines**, **Retrieval-Augmented Generation (RAG)**, and **vector databases**  
-- ⚙️ Dockerizing ML/AI projects and deploying to **cloud platforms**  
-- ☁️ Learning **Kubernetes**, **MLOps workflows**, and **cloud-native architecture**  
-- 🛰️ Building real-time systems with **Kafka** and **event-driven architecture**  
+- Building autonomous AI agents using LangChain, CrewAI, and custom orchestrators  
+- Creating end-to-end automation pipelines with n8n + custom Python microservices  
+- Designing RAG, vector search, and hybrid retrieval systems  
+- Developing LLM-powered tools for lead generation, data extraction, and workflows  
+- Implementing structured output AI, function calls, and multi-step reasoning  
+- Experimenting with self-learning AI loops, memory systems, and tool-calling agents  
+- Integrating AI with real-time APIs, Google Sheets, CRMs, and communication apps  
 
+---
+
+## 🌱 Learning & Future Goals
+
+- Building full AI platforms (agents, workflows, orchestration, monitoring)  
+- Scaling LLM apps using Docker, Kubernetes, and cloud-native infrastructure  
+- Improving retrieval performance with indexing, embeddings, and custom rankers  
+- Advancing skills in MLOps, model deployment, and distributed systems  
+- Experimenting with automated data labeling, long-term memory, and agentic behavior  
 ---
 
 ## 📊 GitHub Statistics
