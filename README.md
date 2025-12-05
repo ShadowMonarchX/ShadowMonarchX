@@ -1,16 +1,16 @@
 <div align="center">
-    
+
 # 👋 Hello! I'm Jenish Shekhada
-    
+
 ### 🎓 Final-year Computer Engineering Student | LJ Institute of Engineering & Technology
-    
+
 💻 Passionate about **AI Engineering** and building **scalable, production-ready web applications**.
-    
+
 ---
-    
+
 </div>
 
-## 🧠 Career Focus: AI Engineer 
+## 🧠 Career Focus: AI Engineer
 
 I aim to be an **AI Engineer**, blending **deep learning**, **NLP**, and **backend systems** with **modern MLOps practices** to develop intelligent, efficient, and reliable applications.
 
@@ -20,33 +20,33 @@ I aim to be an **AI Engineer**, blending **deep learning**, **NLP**, and **backe
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **🤖 AI & Agents** | **GPT-4** / **GPT-5**, **LangChain**, CrewAI, Vector Stores (ChromaDB, FAISS) |
-| **🧠 Machine Learning** | Transformers, Hugging Face, **PyTorch**, scikit-learn, Pandas, NumPy |
-| **💻 Backend** | **Django**, **Flask**, REST APIs, Webhooks |
+| **🤖 AI & Agents** | GPT-4 / GPT-5, LangChain, CrewAI, Vector Stores (ChromaDB, FAISS) |
+| **🧠 Machine Learning** | Transformers, Hugging Face, PyTorch, scikit-learn, Pandas, NumPy |
+| **💻 Backend** | Django, Flask, REST APIs, Webhooks |
 | **⚙️ Automation** | n8n, Zapier, Custom Python Microservices |
-| **💾 Databases** | MySQL, PostgreSQL (Goal), **ChromaDB** |
-| **☁️ DevOps & Tools** | **Docker**, **Git** & **GitHub**, VS Code, PyCharm |
+| **💾 Databases** | MySQL, PostgreSQL, ChromaDB |
+| **☁️ DevOps & Tools** | Docker, Git & GitHub, VS Code, PyCharm |
 
 ---
 
 ## 🚀 AI Agent Work & Interests
 
-* Building autonomous AI agents using LangChain, CrewAI, and custom orchestrators.
-* Designing **RAG (Retrieval-Augmented Generation)**, vector search, and hybrid retrieval systems.
-* Creating end-to-end automation pipelines with n8n + custom Python microservices.
-* Developing LLM-powered tools for lead generation, data extraction, and complex workflows.
-* Implementing structured output AI, function calls, and multi-step reasoning agents.
-* Experimenting with **self-learning AI loops**, memory systems, and tool-calling agents.
-* Integrating AI with real-time APIs, Google Sheets, CRMs, and communication apps.
+- Building autonomous AI agents using LangChain, CrewAI, and custom orchestrators  
+- Designing **RAG (Retrieval-Augmented Generation)** systems  
+- Creating automation pipelines using n8n + Python microservices  
+- Developing LLM-powered lead generation & data extraction tools  
+- Implementing structured outputs, function-calling, and reasoning agents  
+- Experimenting with **self-improving AI loops** and long-term memory systems  
+- Integrating AI with real-time APIs, CRMs, Google Sheets, messaging apps  
 
 ---
 
 ## 🌱 Learning & Future Goals
 
-* Building full AI platforms (agents, workflows, orchestration, monitoring).
-* Scaling LLM applications using **Docker**, **Kubernetes**, and cloud-native infrastructure.
-* Improving retrieval performance with advanced indexing, embeddings, and custom rankers.
-* Advancing skills in **MLOps**, model deployment, and **distributed systems**.
+- Building full AI platforms (agents, workflows, orchestration, monitoring)  
+- Scaling LLM applications using **Docker**, **Kubernetes**, cloud-native architecture  
+- Improving vector search, embeddings & retrieval optimization  
+- Advancing in **MLOps**, model deployment & distributed systems  
 
 ---
 
@@ -56,7 +56,7 @@ I aim to be an **AI Engineer**, blending **deep learning**, **NLP**, and **backe
 
 | GitHub Stats |
 | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=ShadowMonarchX&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" onerror="this.onerror=null; this.src='https://img.shields.io/badge/GitHub_Stats-Error-red';"/> |
+| <img src="https://readme-stats.mrcnh.tech/api?username=ShadowMonarchX&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="200" /> |
 
 </div>
 
@@ -76,7 +76,7 @@ I aim to be an **AI Engineer**, blending **deep learning**, **NLP**, and **backe
 ## 📬 Connect With Me
 
 <div align="center">
-    
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j._r._shekhada)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jenish-shekhada-ba4681314)
 [![Twitter/X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/JRpatel07)
