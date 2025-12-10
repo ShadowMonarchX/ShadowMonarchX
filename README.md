@@ -50,15 +50,21 @@ I aim to be an **AI Engineer**, blending **deep learning**, **NLP**, and **backe
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Summary Dashboard
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadowMonarchX&theme=radical" />
+</p>
 
-| GitHub Stats |
-| :---: |
-| <img src="https://readme-stats.mrcnh.tech/api?username=ShadowMonarchX&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="200" /> |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShadowMonarchX&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShadowMonarchX&theme=radical" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShadowMonarchX&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShadowMonarchX&theme=radical&utcOffset=5.5" />
+</p>
 
 ---
 
