@@ -9,17 +9,6 @@
 ---
 
 </div>
-<div align="center">
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=ShadowMonarchX&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-
-<!-- WakaTime Coding Stats -->
-<a href="https://wakatime.com/@ShadowMonarchX">
-  <img src="https://wakatime.com/badge/user/ShadowMonarchX.svg?style=for-the-badge" alt="wakatime stats" />
-</a>
-
-</div>
 
 ## 🧠 Career Focus: AI Engineer
 
