@@ -4,17 +4,41 @@
 
 ### 🎓 Final-year Computer Engineering Student | LJ Institute of Engineering & Technology
 
-💻 Passionate about **AI Engineering** and building **scalable, production-ready web applications**.
+💻 Passionate about **AI Engineering**, **Deep Learning**, and building **intelligent, production-ready applications**.
 
----
+📈 Currently an **AI Engineer Intern**, exploring **ML, NLP, and AI-driven solutions**.
+
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi,+I%E2%80%99m+Jenish!&fontSize=40)
 
 </div>
+
 
 ## 🧠 Career Focus: AI Engineer
 
 I aim to be an **AI Engineer**, blending **deep learning**, **NLP**, and **backend systems** with **modern MLOps practices** to develop intelligent, efficient, and reliable applications. 
 
----
+
+
+## 🛠️ Technical Skills
+
+**GenAI / LLMs**       : LLMs • RAG • LangChain • Prompt Engineering  
+**Modeling**           : Fine-Tuning • LoRA • Transfer Learning  
+**ML / DL**            : PyTorch • Neural Networks  
+**Vector Search**      : FAISS • Embeddings  
+**Programming**        : Python • Pandas • NumPy • Scikit-learn  
+**Backend**            : FastAPI • REST APIs  
+**MLOps**              : Model Versioning • Deployment • Monitoring  
+**DevOps**             : Docker • Git/GitHub  
+**Automation**         : n8n Workflows
+
+
+
+## 🎓 Education
+
+**LJ Institute of Engineering & Technology**  
+_Bachelor of Engineering, Computer Engineering_ | 2022–2026
+
+
 
 ## 📊 GitHub Summary Dashboard
 
@@ -26,7 +50,6 @@ I aim to be an **AI Engineer**, blending **deep learning**, **NLP**, and **backe
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShadowMonarchX&theme=radical&utcOffset=5.5" />
 </p>
 
----
 
 ## 🌐 Profiles & Portfolio
 
@@ -37,7 +60,7 @@ I aim to be an **AI Engineer**, blending **deep learning**, **NLP**, and **backe
 | **🧠 Kaggle** | [jenexshekhada](https://www.kaggle.com/jenexshekhada) |
 | **💻 LeetCode** | [jrpate](https://leetcode.com/u/jrpate/) |
 
----
+
 
 ## 📬 Connect With Me
 
@@ -51,3 +74,10 @@ I aim to be an **AI Engineer**, blending **deep learning**, **NLP**, and **backe
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Shadow_Monarch)
 
 </div>
+
+
+
+## ⚡ Fun Fact
+
+🌟 Always learning and experimenting with **new AI techniques** to stay ahead in the rapidly evolving world of AI/ML.  
+🚀 Love turning ideas into **real-world AI applications**.
