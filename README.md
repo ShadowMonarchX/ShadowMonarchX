@@ -42,11 +42,20 @@ _Bachelor of Engineering, Computer Engineering_ | 2022–2026
 
 ## 📊 GitHub Summary Dashboard
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadowMonarchX&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShadowMonarchX&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShadowMonarchX&theme=radical&utcOffset=5.5" />
-</p>
+<div align="center">
+
+<!-- Profile Overview -->
+![GitHub Profile](https://gh-readme-profile.vercel.app/api?username=ShadowMonarchX&theme=radical)
+
+<!-- General Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShadowMonarchX&show_icons=true&theme=radical)
+
+<!-- Contributions / Calendar -->
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=ShadowMonarchX&count_private=true&show_icons=true&theme=radical)
+
+</div>
+
+
 
 ---
 
