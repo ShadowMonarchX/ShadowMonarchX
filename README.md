@@ -47,9 +47,6 @@ _Bachelor of Engineering, Computer Engineering_ | 2022–2026
 <!-- Profile Overview -->
 ![GitHub Profile](https://gh-readme-profile.vercel.app/api?username=ShadowMonarchX&theme=radical)
 
-<!-- Contributions / Calendar -->
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=ShadowMonarchX&count_private=true&show_icons=true&theme=radical)
-
 </div>
 
 
