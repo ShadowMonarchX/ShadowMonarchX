@@ -1,73 +1,228 @@
 <div align="center">
 
-# 👋 Hello! I'm Jenish Shekhada
+# Hi, I'm Jenish Shekhada
 
-### 🎓 Final-year Computer Engineering Student | LJ Institute of Engineering & Technology
+### AI Engineer | Generative AI | LLMs | RAG Systems | Backend Development
 
-💻 Passionate about **AI Engineering**, **Deep Learning**, and building **intelligent, production-ready applications**.  
-📈 Currently an **AI Engineer Intern**, exploring **ML, NLP, and AI-driven solutions**.
+Passionate about building production-grade AI applications, scalable backend systems, and intelligent automation solutions.
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi,+I%E2%80%99m+Jenish!&fontSize=40)
+Currently working on LLM applications, Retrieval-Augmented Generation (RAG), Agentic AI Systems, and AI Infrastructure.
 
-</div>
-
----
-
-## 🧠 Career Focus: AI Engineer
-
-I aim to be an **AI Engineer**, blending **deep learning**, **NLP**, and **backend systems** with **modern MLOps practices** to develop intelligent, efficient, and reliable applications. 
-
----
-
-## 🛠️ Technical Skills
-
-**GenAI / LLMs**       : LLMs • RAG • LangChain • Prompt Engineering  
-**Modeling**           : Fine-Tuning • LoRA • Transfer Learning  
-**ML / DL**            : PyTorch • Neural Networks  
-**Vector Search**      : FAISS • Embeddings  
-**Programming**        : Python • Pandas • NumPy • Scikit-learn  
-**Backend**            : FastAPI • REST APIs  
-**MLOps**              : Model Versioning • Deployment • Monitoring  
-**DevOps**             : Docker • Git/GitHub  
-**Automation**         : n8n Workflows  
-
----
-
-## 🎓 Education
-
-**LJ Institute of Engineering & Technology**  
-_Bachelor of Engineering, Computer Engineering_ | 2022–2026
-
----
-
-
-
-## 🌐 Profiles & Portfolio
-
-| Platform | Username / Link |
-| :--- | :--- |
-| **🤗 Hugging Face** | [ShadowMonarch07](https://huggingface.co/ShadowMonarch07) |
-| **📊 Weights & Biases** | [jenexshekhada](https://wandb.ai/jenexshekhada) |
-| **🧠 Kaggle** | [jenexshekhada](https://www.kaggle.com/jenexshekhada) |
-| **💻 LeetCode** | [jrpate](https://leetcode.com/u/jrpate/) |
-
----
-
-## 📬 Connect With Me
-
-<div align="center"> 
-  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.jr_patel.__) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jenish-shekhada-ba4681314) 
-[![Twitter/X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/JRpatel07) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jenishshekhada7@gmail.com) 
-
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Jenish%20Shekhada&fontSize=42&fontAlignY=35)
 
 </div>
 
 ---
 
-## ⚡ Fun Fact
+## About Me
 
-🌟 Always learning and experimenting with **new AI techniques** to stay ahead in the rapidly evolving world of AI/ML.  
-🚀 Love turning ideas into **real-world AI applications**.
+- Final Year Computer Engineering Student at LJ Institute of Engineering & Technology
+- AI Engineer Intern focused on production AI systems
+- Building scalable RAG pipelines and LLM-powered applications
+- Interested in Deep Learning, NLP, Agentic AI, and MLOps
+- Strong focus on system design, optimization, and deployment
+
+---
+
+## Current Focus
+
+- Production RAG Systems
+- Agentic AI Workflows
+- LLM Fine-Tuning and Evaluation
+- FastAPI Backend Development
+- AI Infrastructure and MLOps
+- AI Voice and Speech Systems
+- High-Performance Inference Optimization
+
+---
+
+## Daily Activity Tracker
+
+> Auto-updated every day via GitHub Actions
+
+<!-- ACTIVITY-START -->
+| Metric | Today | This Week | This Month |
+|:---|:---:|:---:|:---:|
+| Commits | — | — | — |
+| Pull Requests Opened | — | — | — |
+| PRs Merged | — | — | — |
+| PR Comments | — | — | — |
+| Issues Opened | — | — | — |
+<!-- ACTIVITY-END -->
+
+---
+
+## Featured Projects
+
+### Enterprise RAG Platform
+
+- Built scalable document intelligence systems using LangChain and vector databases
+- Semantic search and contextual question answering
+- Multi-document ingestion and retrieval pipeline
+- Production-ready FastAPI deployment
+
+### AI Voice Platform
+
+- End-to-end speech processing pipeline
+- TTS and speech workflow optimization
+- Model serving and inference acceleration
+- Monitoring and configuration management
+
+### Multi-Agent AI Systems
+
+- Agent orchestration and workflow automation
+- Tool calling and memory integration
+- Autonomous task execution pipelines
+- LangGraph-based architectures
+
+### AI Customer Support Platform
+
+- Retrieval-Augmented Generation architecture
+- Knowledge base integration
+- Automated response generation
+- Scalable API-based deployment
+
+---
+
+## Technical Skills
+
+### Generative AI
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- AI Agents
+- LangChain
+- LangGraph
+- Model Evaluation
+
+### Machine Learning & Deep Learning
+
+- PyTorch
+- Scikit-learn
+- Neural Networks
+- Transfer Learning
+- Fine-Tuning
+- LoRA
+- Embeddings
+
+### Vector Databases & Search
+
+- FAISS
+- Semantic Search
+- Embedding Pipelines
+- Retrieval Systems
+- Knowledge Bases
+
+### Backend Development
+
+- Python
+- FastAPI
+- REST APIs
+- Async Processing
+- API Design
+- Authentication Systems
+
+### Data Engineering
+
+- Pandas
+- NumPy
+- Data Processing
+- ETL Pipelines
+
+### MLOps & DevOps
+
+- Docker
+- Git
+- GitHub Actions
+- Model Deployment
+- Monitoring
+- CI/CD
+- Linux
+
+### Automation
+
+- n8n
+- Workflow Automation
+- AI Pipelines
+- Process Automation
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShadowMonarchX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarchX&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarchX&layout=compact&theme=tokyonight&langs_count=8)
+
+</div>
+
+---
+
+## Recent Activity
+
+> Last 5 GitHub activities
+
+<!-- RECENT-ACTIVITY-START -->
+1. Waiting for workflow execution...
+<!-- RECENT-ACTIVITY-END -->
+
+---
+
+## Education
+
+### LJ Institute of Engineering & Technology
+
+Bachelor of Engineering (Computer Engineering)
+
+2022 – 2026
+
+---
+
+## Certifications & Learning
+
+- Generative AI Development
+- Deep Learning
+- Machine Learning
+- Hugging Face Ecosystem
+- LangChain Framework
+- MLOps Fundamentals
+- Production AI Systems
+
+---
+
+## Profiles
+
+| Platform | Link |
+|-----------|------|
+| Hugging Face | https://huggingface.co/ShadowMonarch07 |
+| Weights & Biases | https://wandb.ai/jenexshekhada |
+| Kaggle | https://www.kaggle.com/jenexshekhada |
+| LeetCode | https://leetcode.com/u/jrpate/ |
+
+---
+
+## Connect With Me
+
+| Platform | Link |
+|-----------|------|
+| LinkedIn | https://linkedin.com/in/jenish-shekhada-ba4681314 |
+| X (Twitter) | https://x.com/JRpatel07 |
+| Instagram | https://instagram.com/__.jr_patel.__ |
+| Email | mailto:jenishshekhada7@gmail.com |
+
+---
+
+## Career Goal
+
+My goal is to become a highly skilled AI Engineer specializing in Generative AI, LLM Systems, Agentic AI, and scalable AI infrastructure while building production-ready solutions that create measurable business impact.
+
+---
+
+## Fun Fact
+
+I enjoy designing large-scale AI systems, optimizing model inference pipelines, and turning complex AI ideas into real-world applications.
