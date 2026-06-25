@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Hi, I'm Jenish Shekhada
 
@@ -225,4 +225,4 @@ My goal is to become a highly skilled AI Engineer specializing in Generative AI,
 
 ## Fun Fact
 
-I enjoy designing large-scale AI systems, optimizing model inference pipelines, and turning complex AI ideas into real-world applications.
+I enjoy designing large-scale AI systems, optimizing model inference pipelines, and turning complex AI ideas into real-world applications. -->
