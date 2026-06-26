@@ -1,5 +1,4 @@
-
-skiils in sort so update <div align="center">
+ <div align="center">
 
 # Hi, I'm Jenish Shekhada
 
@@ -34,22 +33,6 @@ Currently working on LLM applications, Retrieval-Augmented Generation (RAG), Age
 - AI Infrastructure and MLOps
 - AI Voice and Speech Systems
 - High-Performance Inference Optimization
-
----
-
-## Daily Activity Tracker
-
-> Auto-updated every day via GitHub Actions
-
-<!-- ACTIVITY-START -->
-| Metric | Today | This Week | This Month |
-|:---|:---:|:---:|:---:|
-| Commits | — | — | — |
-| Pull Requests Opened | — | — | — |
-| PRs Merged | — | — | — |
-| PR Comments | — | — | — |
-| Issues Opened | — | — | — |
-<!-- ACTIVITY-END -->
 
 ---
 
@@ -110,16 +93,6 @@ Currently working on LLM applications, Retrieval-Augmented Generation (RAG), Age
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarchX&layout=compact&theme=tokyonight&langs_count=8)
 
 </div>
-
----
-
-## Recent Activity
-
-> Last 5 GitHub activities
-
-<!-- RECENT-ACTIVITY-START -->
-1. Waiting for workflow execution...
-<!-- RECENT-ACTIVITY-END -->
 
 ---
 
