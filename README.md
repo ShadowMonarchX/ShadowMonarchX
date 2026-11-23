@@ -1,6 +1,6 @@
 # Jenish Shekhada
 
-### AI Engineer — LLMs, RAG Systems, Agentic AI, Backend Development
+### AI Engineer 
 
 Computer Engineering graduate passionate about building production-grade AI systems, including RAG pipelines, LLM-powered applications, and multi-agent workflows.
 
