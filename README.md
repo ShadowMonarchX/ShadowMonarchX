@@ -7,7 +7,7 @@ Computer Engineering graduate passionate about building production-grade AI syst
 ## Technical Skills
 
 - **AI/LLM:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Prompt Engineering, LangChain
-- **ML/DL:** PyTorch, Fine-Tuning, LoRA (PEFT), Embeddings, Hugging Face Transformers
+- **ML/DL:** PyTorch, Fine-Tuning, LoRA (PEFT), Embeddings, Hugging Face Transformers, CUDA, ONNX, TensorRT
 - **Backend:** Python, FastAPI, REST APIs, AsyncIO
 - **Databases:** FAISS, Vector Databases
 - **Infrastructure:** Docker, Git, GitHub Actions (CI/CD), Linux
